@@ -33,8 +33,8 @@ This toolkit computes six distance measures for directed networks:
 
 ### Tools Included
 
-- **[C++ Directed Graphlet Counter](link)** - Efficient computation of directed graphlet degree vector (DGDV) signatures
-- **[Python Network Comparison Script](link)** - Computing distances between directed networks
+- **[C++ Directed Graphlet Counter](https://github.com/przulj-lab/directed-network-comparison/blob/main/Directed_Distances_v2.cpp)** - Efficient computation of directed graphlet degree vector (DGDV) signatures
+- **[Python Network Comparison Script](https://github.com/przulj-lab/directed-network-comparison/blob/main/Directed_Distances_v2.py)** - Computing distances between directed networks
 
 *Note: If download links don't work when clicked, copy and paste the URLs directly into your browser's address bar.*
 
