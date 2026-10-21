@@ -10,7 +10,7 @@
 
 Corresponding author: Prof. N. Pržulj, natasa.przulj@mbzuai.ac.ae
 
-<img src="images/Directed_Graphlets.png" width="400">
+<img src="images/Directed_Graphlets.png" width="500">
 
 </div>
 
